@@ -1,0 +1,14 @@
+# Local connection secrets, including files outside the inner assessment folder.
+.env
+.env.*
+*.pem
+*.key
+credentials*
+pgpass.conf
+.pgpass
+
+# Local Python environments and caches.
+venv/
+.venv/
+__pycache__/
+*.pyc
