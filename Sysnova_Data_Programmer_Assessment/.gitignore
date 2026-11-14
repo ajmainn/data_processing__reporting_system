@@ -12,6 +12,7 @@ __pycache__/
 .venv/
 venv/
 
+
 # Secrets and local config: never commit these (database passwords, tokens)
 .env
 *.pem
